@@ -1,0 +1,37 @@
+[33mcommit 4140610bb2b8b13b34966e761625c60a0a1e890b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Shweta0009 <shwetarai052004@gmail.com>
+Date:   Mon Oct 9 11:55:25 2023 +0530
+
+    updated file
+
+[1mdiff --git a/src/page/regPage.java b/src/page/regPage.java[m
+[1mnew file mode 100644[m
+[1mindex 0000000..ed49a51[m
+[1m--- /dev/null[m
+[1m+++ b/src/page/regPage.java[m
+[36m@@ -0,0 +1,10 @@[m
+[32m+[m[32mpackage page;[m
+[32m+[m
+[32m+[m[32mpublic class regPage {[m
+[32m+[m
+[32m+[m	[32mpublic static void main(String[] args) {[m
+[32m+[m		[32m// TODO Auto-generated method stub[m
+[32m+[m
+[32m+[m	[32m}[m
+[32m+[m
+[32m+[m[32m}[m
+[1mdiff --git a/src/test/myTest.java b/src/test/myTest.java[m
+[1mnew file mode 100644[m
+[1mindex 0000000..5bb3f23[m
+[1m--- /dev/null[m
+[1m+++ b/src/test/myTest.java[m
+[36m@@ -0,0 +1,9 @@[m
+[32m+[m[32mpackage test;[m
+[32m+[m
+[32m+[m[32mpublic class myTest {[m
+[32m+[m
+[32m+[m	[32mpublic static void main(String[] args) {[m
+[32m+[m[32mint i = 70;[m
+[32m+[m	[32m}[m
+[32m+[m
+[32m+[m[32m}[m
