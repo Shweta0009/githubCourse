@@ -3,8 +3,9 @@ package page;
 public class regPage {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+System.out.println("account is registered ");
+    String b= "Name ";
+    System.out.println("submit");
 	}
 
 }
