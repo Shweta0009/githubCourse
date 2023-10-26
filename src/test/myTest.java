@@ -8,6 +8,7 @@ String City= "lucknow";
 String name = "Shweta";
 
 int j = 7 ;
+int s = 80;
 	}
 
 }
